@@ -263,7 +263,7 @@ module.exports = nativeDescription: "繁體中文", englishDescription: "Chinese
     want_coco: "想要在您的學校進行CodeCombat嗎？"
     educator: "教學人員"
     student: "學生"
-#    go_to_my_dashboard: "Go to My Dashboard"
+    go_to_my_dashboard: "前往我的管理介面"
 #    our_coding_programs: "Our Coding Programs"
 #    codecombat: "CodeCombat"
 #    ozaria: "Ozaria"
